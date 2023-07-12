@@ -1,0 +1,9 @@
+*{
+    margin: 0; /* espaçamento externo dos elementos */
+    padding: 0;  /* espaçamento interno dos elementos */
+    box-sizing: border-box; /* indica que o tamanho agora levará em conta até a borda */
+}
+
+ul{
+    list-style: none; /* remove os marcadores da lista */
+}
