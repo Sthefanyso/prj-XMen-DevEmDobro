@@ -1,3 +1,4 @@
 # projeto-x-men
 
-![image](https://github.com/Sthefanyso/projeto-x-men/assets/102776084/ca90a186-5052-44a5-ae84-be3b449c5f39)
+![image](https://github.com/Sthefanyso/projeto-x-men/assets/102776084/7ffeccca-f950-4f5c-8d63-ff7033d9a231)
+
